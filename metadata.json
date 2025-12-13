@@ -1,0 +1,8 @@
+{
+  "name": "Brightness Indicator Percentage",
+  "description": "Shows screen brightness percentage in the top panel",
+  "uuid": "brightness-indicator-percentage@muharemovic",
+  "shell-version": ["49"],
+  "version":1,
+  "url": "https://github.com/muharemovic/brightness-indicator-percentage"
+}
